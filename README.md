@@ -4,7 +4,7 @@
 
 
 ### 🚀 About
-[GameSprunki](game-Sprunki.com) is the web's largest curated collection of Sprunki games and fan-made modifications. Our platform brings together the entire Sprunki universe in one accessible location, making music creation fun and instant for players worldwide.
+[GameSprunki](https://game-sprunki.com/) is the web's curated collection of Sprunki games and fan-made modifications. Our platform brings together the entire Sprunki universe in one accessible location, making music creation fun and instant for players worldwide.
 
 ### ✨ What We Offer
 
@@ -46,7 +46,7 @@
 
 ### 🌐 Quick Start
 
-- Visit [game-sprunki.com](game-sprunki.com)
+- Visit [game-sprunki.com](https://game-sprunki.com/)
 - Browse our game collection
 - Click any game to play instantly
 - Start creating music immediately!
